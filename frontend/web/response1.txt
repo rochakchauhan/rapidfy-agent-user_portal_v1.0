@@ -1,0 +1,1 @@
+{"name":"Bad Request","message":"This google plus account was not found. Please register this account on the Rapidfy app first.","code":3,"status":400,"type":"yii\\web\\BadRequestHttpException"}
